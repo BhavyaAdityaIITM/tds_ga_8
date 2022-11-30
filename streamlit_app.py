@@ -1,6 +1,4 @@
 import streamlit as st
-import pickle
-import pandas as pd
 
 st.write('Program For Multiplication of 2 Numbers')
 
