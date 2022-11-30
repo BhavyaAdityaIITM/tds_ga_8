@@ -15,6 +15,4 @@ def user_input():
 
 df = user_input()
 st.write(df)
-
-#ans = df[0]*df[1
-         
+       
